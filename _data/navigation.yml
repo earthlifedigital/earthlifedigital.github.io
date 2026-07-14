@@ -1,21 +1,46 @@
-- name: Docs
-  link: /docs/
-- name: Example Pages
+- name: About
   link: /#
-  dropdown:
-    - name: Landing Page With Callouts
-      link: /landing/
-    - name: Promo Page
-      link: /promo-page/
-    - name: Sponsors Page
-      link: /sponsors/
-    - name: Image Gallery
-      link: /gallery/
-    - name: Products
-      link: /products/
-    - name: Recipe Page
-      link: /example-recipe/
-    - name: Showcase
-      link: /showcase/
+  dropdown: 
+    - name: Background 
+      link: /about/background/
+    - name: Goals 
+      link: /about/goals/
+    - name: The Consortium
+      link: /about/consortium/
+    - name: Organization 
+      link: /about/organization/
+- name: Resource Hub 
+  link: /#
+  dropdown: 
+    - name: Principles 
+      link: /hub/principles/
+    - name: Datasets and Databases
+      link: /hub/dataresources/
+    - name: Data Projects and Working Groups
+      link: /hub/projects/
+    - name: Papers and studies 
+      link: /hub/studies/
+    - name: Standards and Aggregators
+      link: /hub/standards/
+    - name: Data repositories and Portals
+      link: /hub/repos/
+- name: Projects 
+  link: /#
+  dropdown: 
+    - name: Resources 
+      link: /projects/resources/
+    - name: Failed Projects 
+      link: /projects/failed/
+    - name: Research White Paper 
+      link: /projects/whitepaper/
+    - name: User Requirements 
+      link: /projects/requirements/
+    - name: EDEN 
+      link: /projects/eden/
+- name: Contribute 
+  link: /#
+  dropdown: 
+    - name: Resource survey 
+      link: /contribute/resource/
 - name: Blog
   link: /blog/

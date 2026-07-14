@@ -1,0 +1,51 @@
+- id: biodeeptime
+  abbreviation: BioDeepTime 
+  description_short: 
+  long: BioDeepTime
+  logo: images/logos/generic.svg
+  website: https://biodeeptime.github.io
+  citation:
+  - ""
+
+- id: bite 
+  abbreviation: BITE 
+  description_short: 
+  long: Biotic Interactions in Deep Time
+  logo: images/logos/generic.svg
+  website: https://www.paleosynthesis.nat.fau.de/bite/#about-bite
+  citation:
+  - ""
+
+- id: bridge 
+  abbreviation: BRIDGE 
+  description_short: 
+  long: 
+  logo: images/logos/bridge.svg
+  website: https://www.paleo.bristol.ac.uk/resources/simulations/
+  category: climate-model
+  citation:
+  - ""
+
+- id: eODP 
+  abbreviation: eODP 
+  description_short: 
+  long: The Extending Ocean Drilling Pursuits 
+  logo: images/logos/eODP.png
+  website: https://eodp.github.io/
+  state: sunrise
+  citation:
+  - ""
+
+- id: paleoverse
+  abbreviation: PaleoVerse
+  long: PaleoVerse
+  website: https://palaeoverse.org/our-packages/
+  descriptions: "Resources for specimen-level data"
+
+- id: pdwg
+  abbreviation: PDWG 
+  long: Paleo Data Working Group
+  website: https://paleo-data.github.io/
+  descriptions: "Resources for specimen-level data"
+  links:
+  - "https://biss.pensoft.net/article/74370"
