@@ -4,12 +4,13 @@
   website: https://www.art.nat.fau.de/
   logo: images/logos/art_logo.png
   state: midday
-  description_short: 
+  description_short: "A searchable database of coral observations, traits, taxonomy, locations and environmental metadata. "
   type: trait
   citation:
 
 - id: BioTIME 
   long: BioTIME
+  short: BioTIME
   website: https://biotime.st-andrews.ac.uk/
   logo: images/logos/biotime_cent.png
   description_short: A global database of modern assemblage time series for quantifying and understanding biodiversity change.
@@ -20,7 +21,7 @@
 
 - id: BioDeepTime 
   short: BDT 
-  description_short: 
+  description_short: "Assemblage time series across scales."
   long: BioDeepTime 
   logo: images/logos/BioDeepTime-Logo-rgb.svg
   website: https://biodeeptime.github.io/
@@ -137,6 +138,13 @@
   logo: images/logos/gws.png
   state: midday
    
+- id: ifpni
+  short: IFPNI
+  long: International Fossil Plant Names Index
+  website: https://ifpni.org/
+  logo: "images/logos/IFPNI Logo.gif"
+  state: midday
+
 - id: hadisst
   short: HadISST 
   long: Hadley Centre Sea Ice and Sea Surface Temperature data set

@@ -57,3 +57,10 @@
   logo: images/logos/earthbyte.png
   website: https://esgf.github.io/
   category: climate-model
+
+
+- id: earthdata
+  short:  NASA EarthData
+  long: NASA EarthData 
+  logo: images/logos/earthbyte.png
+  website: https://www.earthdata.nasa.gov/
