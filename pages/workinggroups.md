@@ -1,5 +1,5 @@
 ---
-title: Earth-Life Data Catalogue 
+title: The Broader Community 
 layout: page
 show_sidebar: false
 permalink: /workinggroups/
