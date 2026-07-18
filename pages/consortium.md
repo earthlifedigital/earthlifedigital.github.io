@@ -2,7 +2,7 @@
 layout: page
 title: The Alliance
 subtitle: The structure and responsibilities of the alliance
-permalink: /about/alliance/
+permalink: /about/consortium/
 show_sidebar: false
 hero_image: "../../images/heros/pexels-photo-13010774.jpeg"
 ---

@@ -21,7 +21,4 @@
 - name: Projects 
   link: /projects/
 - name: Contribute 
-  link: /#
-  dropdown: 
-    - name: Resource survey 
-      link: /contribute/resource/
+  link: /contribute 

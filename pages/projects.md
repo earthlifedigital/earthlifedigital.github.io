@@ -3,6 +3,7 @@ layout: page
 title: Projects
 subtitle: Current and future projects of the ELDA
 permalink: /projects/
+hero_image: "../images/heros/pexels-adnorf-754878-1608437.jpg"
 show_sidebar: false
 ---
 
