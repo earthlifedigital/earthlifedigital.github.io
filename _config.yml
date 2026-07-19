@@ -5,7 +5,7 @@ tagline: Community for developing an interconnected data infrastructure
 email: your-email@domain.com
 description: >
   Towards the next generation of data service for understanding the coevolution Earth and Life
-baseurl: "/earthlife"
+baseurl: ""
 url: "https://earthlifedigital.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png

@@ -14,7 +14,7 @@ hero_image: "../images/heros/pexels-eddievaldes155-17570437.jpg"
 <div class="box">
   <h2 id="tutorials">Data Catalogue</h2>
   <p>
-  This page tabulates data resources, including data portals, community databases and single datasets. Many of the entires were tabulated automatically we are working on cleaning this compilations and on making this a queriable relational database with extended metadata.
+  This page is a preliminary tabulation of data resources, including data portals, community databases and single datasets. Many of the entires were tabulated automatically we are working on cleaning this compilations and on making this a queriable relational database with extended metadata.
   Please use the survey if you would like to let us know of any projects that we have not been aware of.
   </p>
   <hr>
