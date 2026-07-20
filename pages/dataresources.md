@@ -34,7 +34,7 @@ hero_image: "../images/heros/pexels-eddievaldes155-17570437.jpg"
 			{% else %}
 			<td style="vertical-align: middle; " width=150> <img src="{{site.url}}{{site.baseurl}}/images/logos/generic.svg"></td>
 			{% endif %}
-			<td style="vertical-align: middle;"> <a href="{{res.link}}"><p><span style="font-weight:1000; font-size:1.5rem">{{res.short}}</span></p><p style="color:gray"><small><i>{{res.long}}</i></small></p></a></td>
+			<td style="vertical-align: middle;"> <a href="{{res.link}}"><p><span style="font-weight:1000">{{res.short}}</span></p><p style="color:gray"><small><i>{{res.long}}</i></small></p></a></td>
 			<td style="vertical-align: middle;"> {{res.description}}</td>
 			<td> {{res.category}}</td>
 			</tr>

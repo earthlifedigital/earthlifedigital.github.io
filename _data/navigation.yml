@@ -3,8 +3,8 @@
   dropdown: 
     - name: Background 
       link: /about/background/
-    # - name: The Alliance 
-    #   link: /about/alliance/
+    - name: The Alliance 
+      link: /about/alliance/
 - name: Catalogue 
   link: /catalogue/
 - name: Other resources
