@@ -19,6 +19,8 @@ hero_image: "../images/heros/pexels-eddievaldes155-17570437.jpg"
   This page is a preliminary tabulation of data resources, including data portals, community databases and single datasets. Many of the entires were tabulated automatically. We are working on cleaning this compilations and on making this into a queriable relational database with extended metadata.
   Please use the [survey]({{site.url}}{{site.baseurl}}/contribute/) if you would like to let us know of any projects that we have not been aware of.
   </p>
+  <p style="font-style:italic;color:darkgray">(Use landscape orientation on smartphones if you experience rendering issues.)
+  </p>
   <hr>
   <!-- Filter out the relevant tutorials-->
 <div id="table-wrapper-full">
@@ -53,12 +55,4 @@ new DataTable('#my-table', {
 </script>
 
 
-<style>
-@media only screen and (max-width: 700px) {
-    /* Styles applied to screens with a width of 600px or more */
-	#table-wrapper-full {
-	font-size:0.5rem
-	}
-}
-</style>
 
