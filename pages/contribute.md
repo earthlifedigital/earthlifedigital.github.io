@@ -7,8 +7,8 @@ hero_image: "../images/heros/pexels-adnorf-754878-1608437.jpg"
 show_sidebar: false
 ---
 
-# Join us!
-We intend to showcase the number of people that care about the future of our digital resources, and therefore involve as many member in this community as possible. If you consider the future of research data that is relevant for studying the coevolution of Earth and Life, you can only benefit from becomming a member of the alliance. You can join using [this link]() (requires a name, current institution and a contact email). You can also indicate your interest in contributing any of the research projects. 
+# Help us! 
 
-# The 
+We intend to involve as many interested people in this community as possible, and showcase how much the community cares about the future of our digital resources to the wider scientific world. If you consider the future of research data and digital resources for studying the coevolution of Earth and Life important, lat us know that you are interested in contributing by filling out [this survey](https://forms.gle/KTWjNnXRbERwupys8).
+
 
