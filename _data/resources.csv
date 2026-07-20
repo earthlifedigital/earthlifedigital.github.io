@@ -110,7 +110,7 @@ portal,General Repository,Dryad,Dryad,core,dryad.png,https://datadryad.org/,Gene
 ,Modern climate and environmental data,GHCN-D,Global Historical Climatology Network Daily,core,,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,Quality-controlled global archive of daily weather-station observations.
 ,Modern climate and environmental data,TerraClimate,TerraClimate,core,,https://www.climatologylab.org/terraclimate.html,Monthly global terrestrial climate and water-balance dataset combining spatial climatology with temporal anomalies.
 ,Modern climate and environmental data,IPCC Atlas,IPCC WGI Interactive Atlas,core,ipcc_atlas.png,https://interactive-atlas.ipcc.ch/,
-,Modern climate and environmental data,ESGF,Earth System Grid Federation,core,earthbyte.png,https://esgf.github.io/,Primary access point of climate simulation data of the CMIP project.
+,Modern climate and environmental data,ESGF,Earth System Grid Federation,core,ESGF_Modeling_01-1055379876.png,https://esgf.github.io/,Primary access point of climate simulation data of the CMIP project.
 ,Modern climate and environmental data,CHELSA,CHELSA,core,chelsa_logo.gif,https://chelsa-climate.org/,"High-resolution terrain-informed global land climate products spanning climatologies, histories and projections."
 ,Modern climate and environmental data,CRU TS,CRU Time-Series,core,,https://crudata.uea.ac.uk/cru/data/hrg/,Monthly station-based gridded global land-climate record extending from 1901.
 ,Modern climate and environmental data,HadISST,Hadley Centre Sea Ice and Sea Surface Temperature data set,core,hadisst.png,https://www.metoffice.gov.uk/hadobs/hadisst/,Monthly sea surface temperature and ice cover.
